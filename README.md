@@ -11,3 +11,6 @@ Docente: Leonardo A. Carvaggio
 * [Excel 1](https://github.com/LCaravaggio/FormulasAvanzadas/blob/main/Curso%20Excel%20Avanzado%201.xlsx)
 * [Excel 2](https://github.com/LCaravaggio/FormulasAvanzadas/blob/main/Curso%20Excel%20Avanzado%202.xlsx)
 * [Excel 3](https://github.com/LCaravaggio/FormulasAvanzadas/blob/main/Curso%20Excel%20Avanzado%203.xlsx)
+
+### TP Final
+En un archivo Word, describa tres casos de uso de Excel reales de su trabajo cotidiano que pudo modificar a partir del presente curso. Describa cómo se hacía antes, detallando fórmulas y todo lo que crea necesario. Describa cómo va a hacerlo a partir de ahora, y que beneficios implica este cambio.
