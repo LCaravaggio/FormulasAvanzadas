@@ -14,3 +14,9 @@ Docente: Leonardo A. Carvaggio
 
 ### TP Final
 En un archivo Word, describa tres casos de uso de Excel reales de su trabajo cotidiano que pudo modificar a partir del presente curso. Describa cómo se hacía antes, detallando fórmulas y todo lo que crea necesario. Describa cómo va a hacerlo a partir de ahora, y que beneficios implica este cambio.
+
+
+## Versión Virtual
+
+Este curso tiene también una versión virtual en dos partes. 
+* [Slides de la primera parte](https://docs.google.com/presentation/d/1WQeaYcIiyJ3EfH4AAOJ7tTHUfPDOCzqMpw77kFu9YOU)
