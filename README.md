@@ -1,4 +1,4 @@
-<a href="url"><img src="https://pbs.twimg.com/profile_images/1752052973327298560/Gr8rXAYA_400x400.jpg" height="150" width="150" ></a>
+<a href="url"><img src="https://static.wikia.nocookie.net/logopedia/images/d/d2/Imagen_2024-04-01_003122427.png" width="250" ></a>
 
 # Formulas Avanzadas
 Fórmulas Avanzadas, Tablas Dinámicas e Introducción al VBA. Curso de Excel del Centro de Capcacitación del Ministerio de Economía de la Nación. 
