@@ -21,3 +21,4 @@ En un archivo Word, describa tres casos de uso de Excel reales de su trabajo cot
 Este curso tiene también una versión virtual en dos partes. 
 * [Slides de la primera parte](https://docs.google.com/presentation/d/1WQeaYcIiyJ3EfH4AAOJ7tTHUfPDOCzqMpw77kFu9YOU)
 * [Videos primera parte](https://www.youtube.com/playlist?list=PLDItqyC7x0k8JJ_OeYP6WgyDdWe6T9rZG)
+* [Slides de la segunda parte](https://docs.google.com/presentation/d/1zW2zGJSW4jv3cgR8_IzWYQVKPvOtzJR8aKJUI4JMA98/)
